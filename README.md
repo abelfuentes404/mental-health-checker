@@ -71,6 +71,7 @@ git clone https://github.com/tu-usuario/mindcheck.git
 cd mindcheck
 npm install
 npm run dev
+```
 
 
 

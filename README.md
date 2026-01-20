@@ -1,92 +1,92 @@
-🧠 MindCheck
+# 🧠 MindCheck
+### Orientación sobre ansiedad y depresión — Web App
 
-Herramienta web de orientación sobre ansiedad y depresión
+> ⚠️ **Proyecto de orientación, no diagnóstico médico**
 
-MindCheck es una aplicación web diseñada para ayudar a las personas a identificar posibles niveles de ansiedad y depresión mediante cuestionarios psicológicos reconocidos, presentados de forma clara, empática y accesible.
+MindCheck es una aplicación web diseñada para ayudar a las personas a **identificar posibles niveles de ansiedad y depresión** mediante cuestionarios psicológicos reconocidos, presentados de forma clara, empática y accesible.
 
-⚠️ Este proyecto NO es una herramienta de diagnóstico médico.
-Su objetivo es orientar, generar conciencia y facilitar el acceso a recursos de ayuda profesional.
+El objetivo principal es **generar conciencia**, orientar y **facilitar el acceso a ayuda profesional real** cuando sea necesario.
 
-✨ Características principales
+---
 
-📋 Evaluaciones basadas en instrumentos validados
+## ✨ Características
 
-🧠 Tests de ansiedad y depresión
+- 📋 Evaluaciones basadas en cuestionarios validados
+- 🧠 Tests de ansiedad y depresión
+- 📊 Resultados explicados en lenguaje claro
+- 🚨 Detección de posibles casos de riesgo
+- 📍 Información de contacto para apoyo profesional
+- 🔐 Privacidad y anonimato por defecto
+- 🌙 Interfaz accesible y amigable
 
-📊 Resultados claros y explicados en lenguaje sencillo
+---
 
-🚨 Detección de posibles casos de riesgo
+## 📚 Tests utilizados
 
-📍 Información de contacto para ayuda profesional
+- **:contentReference[oaicite:0]{index=0}**  
+  Cuestionario para la detección de síntomas depresivos.
 
-🔐 Enfoque en privacidad y anonimato
+- **:contentReference[oaicite:1]{index=1}**  
+  Cuestionario para evaluar la severidad de la ansiedad generalizada.
 
-🌙 Interfaz accesible y amigable
+> Estos instrumentos se utilizan **únicamente con fines informativos y de orientación**.  
+> No se modifican ni reinterpretan con fines clínicos.
 
-📚 Tests utilizados
+---
 
-PHQ-9
-Evaluación de síntomas depresivos.
+## 🚨 Aviso importante
 
-GAD-7
-Evaluación de síntomas de ansiedad generalizada.
+MindCheck **NO sustituye** la evaluación, diagnóstico ni tratamiento de un profesional de la salud mental.
 
-Ambos cuestionarios son utilizados únicamente con fines informativos y de orientación.
+Si tú o alguien más presenta malestar emocional intenso, pensamientos de autolesión o riesgo inmediato, **busca ayuda profesional de forma urgente**.
 
-🚨 Aviso importante
+### Recursos de emergencia (México 🇲🇽)
+- **:contentReference[oaicite:2]{index=2}** — **800 911 2000** (24/7)  
+- Emergencias: **911**
 
-MindCheck no sustituye la evaluación, diagnóstico ni tratamiento de un profesional de la salud mental.
+---
 
-Si tú o alguien más presenta malestar emocional intenso, pensamientos de autolesión o riesgo inmediato, busca ayuda profesional de forma urgente.
+## 🔒 Privacidad
 
-Recursos de emergencia (México)
+- No se requiere registro obligatorio
+- No se almacenan datos personales sensibles
+- Las respuestas se procesan de forma local o anónima
+- El usuario puede abandonar el test en cualquier momento
 
-Línea de la Vida – 800 911 2000 (24/7)
+---
 
-Emergencias: 911
+## 🧑‍💻 Stack tecnológico
 
-🛡️ Privacidad
+- **Frontend:** React / Next.js  
+- **Estilos:** Tailwind CSS  
+- **Estado:** Local (sin persistencia por defecto)  
+- **Backend:** Opcional (solo para métricas anónimas)
 
-No se requiere registro obligatorio
+---
 
-No se almacenan datos personales sensibles
+## 📦 Instalación local
 
-Las respuestas se procesan de forma local o anónima
-
-El usuario puede abandonar el test en cualquier momento
-
-🧑‍💻 Stack tecnológico
-
-Frontend: React / Next.js
-
-Estilos: Tailwind CSS
-
-Estado: Local (sin persistencia por defecto)
-
-Backend: Opcional (solo para métricas anónimas)
-
-📦 Instalación local
+```bash
 git clone https://github.com/tu-usuario/mindcheck.git
 cd mindcheck
 npm install
 npm run dev
 
-📄 Aviso legal
+
+
+## 📄 Aviso legal   
 
 Este proyecto es de carácter informativo y educativo.
 El autor no se hace responsable por el uso que se le dé a la información proporcionada.
 
-🤝 Contribuciones
+## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas 💙
-Si deseas proponer mejoras, correcciones o nuevas ideas:
 
-Haz un fork del proyecto
+- Haz un fork del proyecto
+- Crea una nueva rama
+- Envía un pull request con una descripción clara
 
-Crea una nueva rama
-
-Envía un pull request con una descripción clara
-
-🧠 Autor
+## 🧠 Autor
 
 Desarrollado con responsabilidad y empatía por Abel.

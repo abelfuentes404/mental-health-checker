@@ -139,23 +139,23 @@ If you or someone else is experiencing severe emotional distress, thoughts of se
 
 ## 🔒 Privacy
 
-No mandatory account required
+- No mandatory account required
 
-No sensitive personal data is stored
+- No sensitive personal data is stored
 
-Answers are processed locally or anonymously
+- Answers are processed locally or anonymously
 
-Users may exit the test at any time
+- Users may exit the test at any time
 
 ## 🧑💻 Tech Stack
 
-Frontend: React / Next.js
+- Frontend: React / Next.js
 
-Styling: Tailwind CSS
+- Styling: Tailwind CSS
 
-State Management: Local (no persistence by default)
+- State Management: Local (no persistence by default)
 
-Backend: Optional (anonymous analytics only)
+- Backend: Optional (anonymous analytics only)
 
 ## 📦 Local Setup
 

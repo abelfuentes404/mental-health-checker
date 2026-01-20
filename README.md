@@ -91,3 +91,91 @@ Las contribuciones son bienvenidas 💙
 ## 🧠 Autor
 
 Desarrollado con responsabilidad y empatía por Abel.
+
+---
+
+## 🧠 MindCheck
+
+## Anxiety & Depression Orientation — Web App
+
+> ⚠️ **This project is NOT a medical diagnostic tool**
+
+MindCheck is a web application designed to help people **identify possible levels of anxiety and depression** using well-established psychological questionnaires, presented in a clear, empathetic, and accessible way.
+
+Its main goal is to raise awareness, provide initial guidance, and connect users with real professional mental health resources when needed.
+
+## ✨ Features
+
+- 📋 Assessments based on validated psychological questionnaires
+
+- 🧠 Anxiety and depression tests
+
+- 📊 Easy-to-understand result explanations
+
+- 🚨 Risk-level detection
+
+- 📍 Access to real mental health support resources
+
+- 🔐 Privacy-focused and anonymous by default
+
+- 🌙 Accessible and user-friendly interface
+
+## 📚 Questionnaires Used
+
+- **PHQ-9**
+Tool for identifying depressive symptoms.
+
+- **GAD-7**
+Tool for assessing the severity of generalized anxiety symptoms.
+
+These questionnaires are used for informational and orientation purposes only
+and do not replace professional clinical evaluation.
+
+## 🚨 Important Notice
+
+MindCheck does NOT replace professional mental health evaluation, diagnosis, or treatment.
+
+If you or someone else is experiencing severe emotional distress, thoughts of self-harm, or immediate danger, seek professional help immediately.
+
+## 🔒 Privacy
+
+No mandatory account required
+
+No sensitive personal data is stored
+
+Answers are processed locally or anonymously
+
+Users may exit the test at any time
+
+## 🧑💻 Tech Stack
+
+Frontend: React / Next.js
+
+Styling: Tailwind CSS
+
+State Management: Local (no persistence by default)
+
+Backend: Optional (anonymous analytics only)
+
+## 📦 Local Setup
+
+```bash
+git clone https://github.com/your-username/mindcheck.git
+cd mindcheck
+npm install
+npm run dev
+```
+
+## 📄 Legal Disclaimer
+
+This project is for educational and informational purposes only.
+The author is not responsible for how the information is used.
+
+## 🤝 Contributions
+
+Contributions are welcome 💙
+Feel free to open issues or submit pull requests.
+
+## 🧠 Author
+
+Developed responsibly and with empathy by Abel.

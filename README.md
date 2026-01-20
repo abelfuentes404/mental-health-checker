@@ -104,6 +104,8 @@ MindCheck is a web application designed to help people **identify possible level
 
 Its main goal is to raise awareness, provide initial guidance, and connect users with real professional mental health resources when needed.
 
+---
+
 ## ✨ Features
 
 - 📋 Assessments based on validated psychological questionnaires
@@ -120,6 +122,8 @@ Its main goal is to raise awareness, provide initial guidance, and connect users
 
 - 🌙 Accessible and user-friendly interface
 
+---
+
 ## 📚 Questionnaires Used
 
 - **PHQ-9**
@@ -131,11 +135,15 @@ Tool for assessing the severity of generalized anxiety symptoms.
 These questionnaires are used for informational and orientation purposes only
 and do not replace professional clinical evaluation.
 
+---
+
 ## 🚨 Important Notice
 
 MindCheck does NOT replace professional mental health evaluation, diagnosis, or treatment.
 
 If you or someone else is experiencing severe emotional distress, thoughts of self-harm, or immediate danger, seek professional help immediately.
+
+---
 
 ## 🔒 Privacy
 
@@ -147,6 +155,8 @@ If you or someone else is experiencing severe emotional distress, thoughts of se
 
 - Users may exit the test at any time
 
+---
+
 ## 🧑💻 Tech Stack
 
 - Frontend: React / Next.js
@@ -157,6 +167,8 @@ If you or someone else is experiencing severe emotional distress, thoughts of se
 
 - Backend: Optional (anonymous analytics only)
 
+---
+
 ## 📦 Local Setup
 
 ```bash
@@ -166,15 +178,21 @@ npm install
 npm run dev
 ```
 
+---
+
 ## 📄 Legal Disclaimer
 
 This project is for educational and informational purposes only.
 The author is not responsible for how the information is used.
 
+---
+
 ## 🤝 Contributions
 
 Contributions are welcome 💙
 Feel free to open issues or submit pull requests.
+
+---
 
 ## 🧠 Author
 

@@ -1,0 +1,61 @@
+{
+    "common": {
+        "appName": "Mental Health Check",
+        "appDescription": "Mental health assessment",
+        "startTest": "Start Test",
+        "findHelp": "Find Help",
+        "learnMore": "Learn More",
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success",
+        "close": "Close",
+        "save": "Save",
+        "cancel": "Cancel",
+        "next": "Next",
+        "previous": "Previous",
+        "submit": "Submit",
+        "results": "Results"
+    },
+    "navigation": {
+        "home": "Home",
+        "depressionTest": "Depression Test",
+        "anxietyTest": "Anxiety Test",
+        "resources": "Resources",
+        "information": "Information",
+        "articles": "Articles",
+        "faq": "FAQ"
+    },
+    "home": {
+        "title": "Take care of your",
+        "highlightedTitle": "mental health",
+        "subtitle": "Take a confidential self-assessment based on validated medical tests and find professional help resources near you.",
+        "disclaimerTitle": "Important Notice",
+        "disclaimerText": "This tool is <strong>NOT a medical diagnosis</strong>. It is a self-assessment to guide you. If you are in crisis, contact emergency services immediately. Results are anonymous and confidential.",
+        "testsTitle": "Available Tests",
+        "featuresTitle": "Why trust us",
+        "feature1": {
+            "title": "Confidential",
+            "description": "Your answers are anonymous. We do not store personal data."
+        },
+        "feature2": {
+            "title": "Evidence-Based",
+            "description": "Scientifically validated tests (PHQ-9, GAD-7)."
+        },
+        "feature3": {
+            "title": "Real Resources",
+            "description": "Directory of verified professionals and centers."
+        }
+    },
+    "crisis": {
+        "title": "Are you in crisis or having suicidal thoughts?",
+        "description": "Call <strong>024</strong> (Spain) or <strong>911</strong> (Mexico) - 24/7 Support",
+        "callButton": "Call 024",
+        "close": "Close notice"
+    },
+    "footer": {
+        "crisisLines": "24/7 Crisis Lines",
+        "immediateHelp": "Immediate Help",
+        "legalInfo": "Legal Information",
+        "disclaimer": "IMPORTANT NOTICE: This website does not provide medical diagnosis. The information offered is for educational purposes only. If you think you may have a medical emergency, call your local emergency service immediately. Do not ignore your professional medical advice for something you have read on this site."
+    }
+}

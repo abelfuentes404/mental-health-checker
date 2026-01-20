@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+/* Variables personalizadas y temas */
+@theme {
+  /* Colores principales */
+  --color-primary-50: #f0f9ff;
+  --color-primary-100: #e0f2fe;
+  --color-primary-500: #0ea5e9;
+  --color-primary-600: #0284c7;
+  --color-primary-700: #0369a1;
+  
+  /* Niveles de salud mental */
+  --color-mental-calm: #4f46e5;
+  --color-mental-mild: #f59e0b;
+  --color-mental-moderate: #f97316;
+  --color-mental-severe: #dc2626;
+  --color-mental-crisis: #7c2d12;
+  
+  /* Animaciones personalizadas */
+  --animate-fade-in: fadeIn 0.5s ease-in-out;
+  --animate-slide-up: slideUp 0.3s ease-out;
+  
+  /* Fuentes */
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+}
+
+/* Definir keyframes */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { transform: translateY(10px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Utilidades personalizadas */
+@utility glass-effect {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+@utility text-balance {
+  text-wrap: balance;
+}
+
+/* Estilos base */
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

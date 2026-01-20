@@ -73,7 +73,7 @@ npm install
 npm run dev
 ```
 
-
+---
 
 ## 📄 Aviso legal   
 
